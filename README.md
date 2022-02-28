@@ -39,11 +39,7 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
 ![Styled](https://img.shields.io/badge/-styledComponents-black?style=flat-square&logo=styledComponents)
   
-  ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdelmalek123-Ennani&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelmalek123-Ennani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
   
  ##
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
