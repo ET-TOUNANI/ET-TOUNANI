@@ -6,7 +6,7 @@
  
 </p>
 
-<img align="right" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47hdfkq1r2galv27743y9m1l2h1l3suy4h78xnuon1&rid=giphy.gif&ct=g" />
+<img align="right" src="https://github.com/ET-TOUNANI/resumer-Abderrahmane/blob/master/port.png" />
 
 
 I'm Abderrahmane ETTOUNANI, a <em>Big Data and Cloud Computing Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a><br/>
