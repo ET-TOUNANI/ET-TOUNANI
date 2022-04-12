@@ -1,10 +1,6 @@
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://katalinszilardhungarianspecializedtranslations.files.wordpress.com/2018/05/tumblr_o2a9wxkfxi1r6l65eo1_1280.gif" width="50"> 👋
 
-<p align='center'>
-  
-[![Linkedin Badge](https://img.shields.io/badge/-Abderrahmane.Ettounani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-et-tounani-21348020b/) [![Mail Badge](https://img.shields.io/badge/-@Abderrahmane.ettounani-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ettounani99/) [![Mail Badge](https://img.shields.io/badge/-Abderrahmane.ettounani-c0392b?style=flat&labelColor=c0392b&logo=twitter&logoColor=white)](https://twitter.com/TounaniEt)
- 
-</p>
+
 
 <img align="right" src="https://github.com/ET-TOUNANI/resumer-Abderrahmane/blob/master/port.png" />
 
