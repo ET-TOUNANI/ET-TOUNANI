@@ -166,13 +166,14 @@ Here are some ideas to get you started:
 
 </div>
 
+
+
+<div align='center' width='50%' >
+
 ##
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
   ##
-
-<div>
-
   ![Snake animation](https://github.com/elbouchouki/elbouchouki/blob/output/github-contribution-grid-snake.svg)
 
 </div>
