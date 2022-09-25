@@ -50,30 +50,25 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
- </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<p align="left">
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+ </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="TypeScript" width="40" height="40"/>&nbsp;
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-black?style=flat-square&logo=bootstrap)
-![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-![Html](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
-![Css](https://img.shields.io/badge/-css-black?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-sass-black?style=flat-square&logo=sass)
-![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
-
-![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
-![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github)
-![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
-![Styled](https://img.shields.io/badge/-styledComponents-black?style=flat-square&logo=styledComponents)
 
 </p>
 
@@ -137,7 +132,16 @@ Here are some ideas to get you started:
 <br>
 
 <div align='center'>
-<a href="https://www.codewars.com/users/0ussamaBernou" ><img src="https://www.codewars.com/users/0ussamaBernou/badges/large" ></a>
+ <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/ET-TOUNANI/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=74843162)
+
+
 
 <!--
 ### [My CodeWar Profile](https://www.codewars.com/users/0ussamaBernou)
@@ -150,12 +154,12 @@ Here are some ideas to get you started:
 <div align='center' width='50%'>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0ussamaBernou&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com?user=0ussamaBernou&theme=dark&background=000000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ET-TOUNANI&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=ET-TOUNANI&theme=dark&background=000000)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ussamaBernou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ET-TOUNANI&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=ET-TOUNANI&layout=compact&theme=vision-friendly-dark)
 
-![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0ussamaBernou&theme=github_dark)
+![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ET-TOUNANI&theme=github_dark)
 
 
 
@@ -173,14 +177,5 @@ Here are some ideas to get you started:
 
 </div>
 
-  
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
-</a>
-
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/ET-TOUNANI/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=74843162)
 
 
