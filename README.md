@@ -93,11 +93,11 @@ Here are some ideas to get you started:
 	<td width="50%">
           <h3 align="center">Ayat</h3>
           <p align="center">
-            <a href="https://cocktail-carousel.oussamabernou.me" target="_blank" ref="noreferrer"> <img src="https://user-images.githubusercontent.com/96293508/184634570-22ccdc66-8da2-47d3-98a1-4bd1898f78d1.gif" alt="project example"/> </a>
-		<a href="https://github.com/0ussamaBernou/thecocktaildb-showcase" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="https://cocktail-carousel.oussamabernou.me" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <a href="https://github.com/ET-TOUNANI/ayat" target="_blank" ref="noreferrer"> <img src="3.jpg" alt="project example"/> </a>
+		<a href="https://github.com/ET-TOUNANI/ayat" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://github.com/ET-TOUNANI/ayat" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
-             Discover a wide range of cocktails
+		app available in <a href="https://github.com/ET-TOUNANI/ayat" target="_blank" ref="noreferrer">link</a>
             </p>
           </p>
         </td>
