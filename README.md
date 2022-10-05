@@ -80,17 +80,15 @@ Here are some ideas to get you started:
 <table>
       <tr>
         <td width="50%">
-        <!--
-          <h3 align="center">My Portfolio</h3>
+          <h3 align="center">Azaf</h3>
           <p align="center">
-             <a href="https://abderrahmane.vercel.app/" target="_blank" ref="noreferrer"> <img src="https://user-images.githubusercontent.com/96293508/184632431-7b5ca002-7708-4a9f-b757-3a0812b6e283.gif" alt="project example"/> </a>
+             <a href="https://play.google.com/store/apps/details?id=com.azaf.icoz" target="_blank" ref="noreferrer"> <img src="1.jpg" alt="project example"/> </a>
 		<a href="https://github.com/0ussamaBernou/my-portfolio" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="oussamabernou.me" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
-		Visit my <a href="https://oussamabernou.me" target="_blank" ref="noreferrer">portfolio</a>
+		app available in <a href="https://play.google.com/store/apps/details?id=com.azaf.icoz" target="_blank" ref="noreferrer">Play Store</a>
             </p>
           </p>
--->
         </td>
 	<td width="50%">
           <h3 align="center">Cocktail Showcase</h3>
