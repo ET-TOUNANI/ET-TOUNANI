@@ -126,6 +126,30 @@ Here are some ideas to get you started:
           </p>
         </td>
         </tr>
+        <tr>
+        <td width="50%">
+          <h3 align="center">BTS</h3>
+          <p align="center">
+             <a href="https://github.com/ET-TOUNANI/bts" target="_blank" ref="noreferrer"> <img src="6.jpg" alt="project example"/> </a>
+		<a href="https://github.com/ET-TOUNANI/bts" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://github.com/ET-TOUNANI/bts" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <p align="center">
+		app available in <a href="https://github.com/ET-TOUNANI/bts" target="_blank" ref="noreferrer">link</a>
+            </p>
+          </p>
+        </td>
+	<td width="50%">
+          <h3 align="center">ENSET</h3>
+          <p align="center">
+            <a href="https://github.com/ET-TOUNANI/scolaire" target="_blank" ref="noreferrer"> <img src="4.jpg" alt="project example"/> </a>
+		<a href="https://github.com/ET-TOUNANI/scolaire" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://github.com/ET-TOUNANI/scolaire" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <p align="center">
+		app available in <a href="https://github.com/ET-TOUNANI/scolaire" target="_blank" ref="noreferrer">link</a>
+            </p>
+          </p>
+        </td>
+    </tr>
 </table>
 
 <br>
