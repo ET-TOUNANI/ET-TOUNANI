@@ -91,9 +91,8 @@ Here are some ideas to get you started:
           </p>
         </td>
 	<td width="50%">
-          <h3 align="center">Cocktail Showcase</h3>
+          <h3 align="center">Ayat</h3>
           <p align="center">
-          <!--
             <a href="https://cocktail-carousel.oussamabernou.me" target="_blank" ref="noreferrer"> <img src="https://user-images.githubusercontent.com/96293508/184634570-22ccdc66-8da2-47d3-98a1-4bd1898f78d1.gif" alt="project example"/> </a>
 		<a href="https://github.com/0ussamaBernou/thecocktaildb-showcase" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://cocktail-carousel.oussamabernou.me" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
@@ -101,7 +100,6 @@ Here are some ideas to get you started:
              Discover a wide range of cocktails
             </p>
           </p>
-          -->
         </td>
     </tr>
     <tr>
