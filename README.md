@@ -92,12 +92,13 @@ Here are some ideas to get you started:
         </td>
 	<td width="50%">
           <h3 align="center">Ayat</h3>
+	https://play.google.com/store/apps/details?id=com.ettoun.ayat
           <p align="center">
-            <a href="https://github.com/ET-TOUNANI/ayat" target="_blank" ref="noreferrer"> <img src="3.jpg" alt="project example"/> </a>
-		<a href="https://github.com/ET-TOUNANI/ayat" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="https://github.com/ET-TOUNANI/ayat" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <a href="https://play.google.com/store/apps/details?id=com.ettoun.ayat" target="_blank" ref="noreferrer"> <img src="3.jpg" alt="project example"/> </a>
+		<a href="https://play.google.com/store/apps/details?id=com.ettoun.ayat" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://play.google.com/store/apps/details?id=com.ettoun.ayat" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
-		app available in <a href="https://github.com/ET-TOUNANI/ayat" target="_blank" ref="noreferrer">link</a>
+		app available in <a href="https://play.google.com/store/apps/details?id=com.ettoun.ayat" target="_blank" ref="noreferrer">link</a>
             </p>
           </p>
         </td>
