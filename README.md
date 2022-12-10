@@ -181,8 +181,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ET-TOUNANI&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=ET-TOUNANI&theme=dark&background=000000)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ET-TOUNANI&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=ET-TOUNANI&layout=compact&theme=vision-friendly-dark)
-
 ![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ET-TOUNANI&theme=github_dark)
 
 
