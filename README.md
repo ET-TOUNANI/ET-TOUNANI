@@ -89,10 +89,9 @@ Here are some ideas to get you started:
 		app available in <a href="https://play.google.com/store/apps/details?id=com.top.jemla" target="_blank" ref="noreferrer">Play Store</a>
             </p>
           </p>
-        </td>
+       	 </td>
 	</tr>
-      <tr>
-
+      	<tr>
       <td width="50%">
           <h3 align="center">Azaf</h3>
           <p align="center">
