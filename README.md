@@ -92,7 +92,8 @@ Here are some ideas to get you started:
         </td>
 	</tr>
       <tr>
-        <td width="50%">
+
+      <td width="50%">
           <h3 align="center">Azaf</h3>
           <p align="center">
              <a href="https://play.google.com/store/apps/details?id=com.azaf.icoz" target="_blank" ref="noreferrer"> <img src="1.jpg" alt="project example"/> </a>
