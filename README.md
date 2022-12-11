@@ -76,7 +76,6 @@ Here are some ideas to get you started:
 <br>
 
 ## Projects
-
 <table>
 	<tr>
 		<td width="100%">
@@ -92,6 +91,8 @@ Here are some ideas to get you started:
        	 </td>
 	</tr>
       	<tr>
+</table>
+<table>
       <td width="50%">
           <h3 align="center">Azaf</h3>
           <p align="center">
