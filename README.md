@@ -120,11 +120,11 @@ Here are some ideas to get you started:
 	<td width="50%">
           <h3 align="center">Surface</h3>
           <p align="center">
-           <a href="https://github.com/ET-TOUNANI/exemple1" target="_blank" ref="noreferrer"> <img src="5.jpg" alt="project example"/> </a>
-		  <a href="https://github.com/ET-TOUNANI/exemple1" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="https://github.com/ET-TOUNANI/exemple1" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+           <a href="https://play.google.com/store/apps/details?id=com.surface.surface" target="_blank" ref="noreferrer"> <img src="5.jpg" alt="project example"/> </a>
+		  <a href="https://play.google.com/store/apps/details?id=com.surface.surface" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://play.google.com/store/apps/details?id=com.surface.surface" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
-		app available in <a href="https://github.com/ET-TOUNANI/exemple1" target="_blank" ref="noreferrer">link</a>
+		app available in <a href="https://play.google.com/store/apps/details?id=com.surface.surface" target="_blank" ref="noreferrer">link</a>
             </p>
           </p>
         </td>
