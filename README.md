@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="https://angel.co/u/ettounani-abderramane">
-    <img src="https://img.shields.io/youtube/channel/views/UCJIpJFOqT5mqcLJzKjeADsg?style=social" alt="YouTube Badge"/>
+    <img src="https://img.shields.io/youtube/channel/views/UCJIpJFOqT5mqcLJzKjeADsg?style=social" alt="YouTube Badge" hight="50"/>
   </a>
 </div>
 
