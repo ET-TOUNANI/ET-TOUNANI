@@ -11,7 +11,7 @@
   <a href="https://twitter.com/TounaniEt">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://angel.co/u/ettounani-abderramane">
+    <a href="https://www.youtube.com/channel/UCJIpJFOqT5mqcLJzKjeADsg">
 	 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Twitter Badge"/>    
    
   </a>
