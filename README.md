@@ -5,17 +5,14 @@
   <a href="https://www.linkedin.com/in/abderrahmane-et-tounani-21348020b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://abderrahmane.vercel.app/">
+  <a href="https://abbo.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=react&logoColor=blue" alt="Portfolio Badge"/>
   </a>
   <a href="https://twitter.com/TounaniEt">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="https://angel.co/u/ettounani-abderramane">
-    <img src="https://img.shields.io/badge/AngelList-black?style=for-the-badge&logo=angellist&logoColor=white" alt="Angellist Badge"/>
-  </a>
-    <a href="https://oussamabernou.me/resume.html">
-    <img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=github&logoColor=black" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/youtube/channel/views/UCJIpJFOqT5mqcLJzKjeADsg?style=social" alt="YouTube Badge"/>
   </a>
 </div>
 
