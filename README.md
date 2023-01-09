@@ -208,8 +208,8 @@ Here are some ideas to get you started:
 ##
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-  ##
-  ![Snake animation]((https://oransblog.com/content/images/size/w2000/2022/01/AmpleAmusingHoneybadger-size_restricted.gif))
+ ##
+  <img src="https://oransblog.com/content/images/size/w2000/2022/01/AmpleAmusingHoneybadger-size_restricted.gif">
 
 </div>
 
