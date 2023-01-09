@@ -205,11 +205,13 @@ Here are some ideas to get you started:
 
 <div align='center' width='50%' >
 
-##
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
  ##
   <img src="https://oransblog.com/content/images/size/w2000/2022/01/AmpleAmusingHoneybadger-size_restricted.gif">
+	
+ ##
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 </div>
 
