@@ -197,7 +197,7 @@ Here are some ideas to get you started:
 ![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ET-TOUNANI&theme=github_dark)
 
 
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ET-TOUNANI&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
