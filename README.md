@@ -1,4 +1,4 @@
-<img src="BG.png" width="100%">
+
 
 
 <div id="badges" align='center'>
