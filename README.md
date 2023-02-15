@@ -192,10 +192,11 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ET-TOUNANI&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=ET-TOUNANI&theme=dark&background=000000)
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ET-TOUNANI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
-
 
 
 <div align='center' width='50%' >
