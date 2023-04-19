@@ -161,6 +161,9 @@
 <div align='center' width='50%'>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ET-TOUNANI&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=ET-TOUNANI&theme=dark&background=000000)
+	</div>
+<div align='center' width='50%' >
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ET-TOUNANI&hide=javascript,css,scss,html,CMake,Cpp&theme=tokyonight)
 
 </div>
