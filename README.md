@@ -18,7 +18,7 @@
 
 <br>
 	
-<img src="ant.png">
+<img src="ant.png" width="100%">
 
 <br>
 
