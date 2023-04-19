@@ -1,6 +1,3 @@
-
-
-
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/abderrahmane-et-tounani-21348020b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,64 +14,49 @@
   </a>
 	
 </div>
-
+<img src="ana.png">
 <br>
 
 ### A passionate Problem Solver, who chose Coding to help build impactful solutions through code.
 
 <br>
 
-
-<!--
-**0ussamaBernou/0ussamaBernou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-  
-- 🔭 I’m currently working on myself
+- 🔭 <em>I am actively seeking a <b>2-3</b> month internship opportunity this summer in the field of <b>Machine Learning or Mobile Development</b>.
+  If anyone has any recommendations or is aware of any internship opportunities in those fields, I would greatly appreciate it if you could kindly let me know. Thank you in advance for your time and consideration. :)</em>
 
 <br>
 
 <br>
-
-
-
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <p align="left">
 
-
-
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
  </a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="PHP" width="40" height="40"/>&nbsp;
 
-
 </p>
-
 
 <br>
 
 ## Projects
+
 <table>
 	<tr>
 		<td width="100%">
@@ -173,12 +155,10 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
 </a>
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/ET-TOUNANI/github-profile-views-counter
+[ÿ hÿpe]: https://yhype.me
+[github profile views counter]: https://github.com/ET-TOUNANI/github-profile-views-counter
 
 ![](https://hit.yhype.me/github/profile?user_id=74843162)
-
-
 
 <!--
 ### [My CodeWar Profile](https://www.codewars.com/users/0ussamaBernou)
@@ -190,26 +170,19 @@ Here are some ideas to get you started:
 
 <div align='center' width='50%'>
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ET-TOUNANI&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=ET-TOUNANI&theme=dark&background=000000)
-	
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ET-TOUNANI&hide=javascript,css,scss,html,CMake,Cpp&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ET-TOUNANI&hide=javascript,css,scss,html,CMake,Cpp&theme=tokyonight)
 
 </div>
 
-
 <div align='center' width='50%' >
 
+##
 
- ##
   <img src="https://oransblog.com/content/images/size/w2000/2022/01/AmpleAmusingHoneybadger-size_restricted.gif">
 	
  ##
   <em>I am actively seeking a <b>2-3</b> month internship opportunity this summer in the field of <b>Machine Learning or Mobile Development</b>.
 If anyone has any recommendations or is aware of any internship opportunities in those fields, I would greatly appreciate it if you could kindly let me know. Thank you in advance for your time and consideration. :)</em>
 
-
 </div>
-
-
-
