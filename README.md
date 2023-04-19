@@ -205,7 +205,8 @@ Here are some ideas to get you started:
   <img src="https://oransblog.com/content/images/size/w2000/2022/01/AmpleAmusingHoneybadger-size_restricted.gif">
 	
  ##
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  <em>I am actively seeking a <b>2-3</b> month internship opportunity this summer in the field of <b>Machine Learning or Mobile Development</b>.
+If anyone has any recommendations or is aware of any internship opportunities in those fields, I would greatly appreciate it if you could kindly let me know. Thank you in advance for your time and consideration. :)</em>
 
 
 </div>
