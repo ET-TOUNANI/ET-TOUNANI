@@ -18,11 +18,7 @@
 
 <br>
 
-### A passionate Problem Solver, who chose Coding to help build impactful solutions through code.
-
-<br>
-
-- 🔭 <em>I am actively seeking a <b>2-3</b> month internship opportunity this summer in the field of <b>Machine Learning or Mobile Development</b>.
+### <em>I am actively seeking a <b>2-3</b> month internship opportunity this summer in the field of <b>Machine Learning or Mobile Development</b>.
   If anyone has any recommendations or is aware of any internship opportunities in those fields, I would greatly appreciate it if you could kindly let me know. Thank you in advance for your time and consideration. :)</em>
 
 <br>
