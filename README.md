@@ -17,7 +17,7 @@
 </div>
 
 <br>
-
+(https://myoctocat.com/assets/images/base-octocat.svg)
 ### <em>I am actively seeking a <b>2-3</b> month internship opportunity this summer in the field of <b>Machine Learning or Mobile Development. If anyone has any recommendations or is aware of any internship opportunities in those fields, I would greatly appreciate it if you could kindly let me know. Thank you in advance for your time and consideration. :)</em>
 
 <br>
