@@ -53,8 +53,7 @@
 		<a href="https://github.com/ET-TOUNANI/PI_GESTION_EMPLOIS_TEMPS" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://www.youtube.com/watch?v=Yxd4z5WS6Fw" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             
-          </p>
-       	 </td>
+          
 	</tr>
  </table>
  <table>
