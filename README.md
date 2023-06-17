@@ -69,7 +69,6 @@
           </p>
        	 </td>
 	</tr>
-      	<tr>
 </table>
 <table>
       <td width="50%">
