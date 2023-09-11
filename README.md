@@ -44,24 +44,31 @@
 
 ## Projects
 
-<table>
+
+
+ <table>
+ <tr>
+ <td width="100%">
+          <h3 align="center">Discover Morocco</h3>
+          <p align="center">
+             <a href="https://play.google.com/store/apps/details?id=com.tourism.discover_morocco&pli=1" target="_blank" ref="noreferrer"> <img src="demo/DISCOVER MOROCCO.png" alt="project example"/> </a>
+		<a href="https://github.com/ET-TOUNANI/discover-morocco" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://play.google.com/store/apps/details?id=com.tourism.discover_morocco&pli=1" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+    </td>
+ </tr>
 	<tr>
-	<td width="100%">
+
+<td width="50%">
           <h3 align="center">Timetable generator</h3>
           <p align="center">
-             <a href="https://www.youtube.com/watch?v=Yxd4z5WS6Fw" target="_blank" ref="noreferrer"> <img src="10.png" alt="project example"/> </a>
+             <a href="https://www.youtube.com/watch?v=Yxd4z5WS6Fw" target="_blank" ref="noreferrer"> <img src="demo/10.png" alt="project example"/> </a>
 		<a href="https://github.com/ET-TOUNANI/PI_GESTION_EMPLOIS_TEMPS" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://www.youtube.com/watch?v=Yxd4z5WS6Fw" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
-            
-          
-	
- </table>
- <table>
-	<tr>
-		<td width="100%">
+    </td>
+		<td width="50%">
           <h3 align="center">TOP Jemla</h3>
           <p align="center">
-             <a href="https://play.google.com/store/apps/details?id=com.top.jemla" target="_blank" ref="noreferrer"> <img src="77.png" alt="project example"/> </a>
+             <a href="https://play.google.com/store/apps/details?id=com.top.jemla" target="_blank" ref="noreferrer"> <img src="demo/77.png" alt="project example"/> </a>
 		<a href="https://play.google.com/store/apps/details?id=com.top.jemla" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://play.google.com/store/apps/details?id=com.top.jemla" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
@@ -75,7 +82,7 @@
       <td width="50%">
           <h3 align="center">Azaf</h3>
           <p align="center">
-             <a href="https://play.google.com/store/apps/details?id=com.azaf.icoz" target="_blank" ref="noreferrer"> <img src="1.jpg" alt="project example"/> </a>
+             <a href="https://play.google.com/store/apps/details?id=com.azaf.icoz" target="_blank" ref="noreferrer"> <img src="demo/1.jpg" alt="project example"/> </a>
 		<a href="https://play.google.com/store/apps/details?id=com.azaf.icoz" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://play.google.com/store/apps/details?id=com.azaf.icoz" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
@@ -86,7 +93,7 @@
 	<td width="50%">
           <h3 align="center">Ayat</h3>
           <p align="center">
-            <a href="https://play.google.com/store/apps/details?id=com.ettoun.ayat" target="_blank" ref="noreferrer"> <img src="3.jpg" alt="project example"/> </a>
+            <a href="https://play.google.com/store/apps/details?id=com.ettoun.ayat" target="_blank" ref="noreferrer"> <img src="demo/3.jpg" alt="project example"/> </a>
 		<a href="https://play.google.com/store/apps/details?id=com.ettoun.ayat" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://play.google.com/store/apps/details?id=com.ettoun.ayat" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
@@ -99,7 +106,7 @@
 	<td width="50%">
           <h3 align="center">Surface</h3>
           <p align="center">
-           <a href="https://play.google.com/store/apps/details?id=com.surface.surface" target="_blank" ref="noreferrer"> <img src="5.jpg" alt="project example"/> </a>
+           <a href="https://play.google.com/store/apps/details?id=com.surface.surface" target="_blank" ref="noreferrer"> <img src="demo/5.jpg" alt="project example"/> </a>
 		  <a href="https://play.google.com/store/apps/details?id=com.surface.surface" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://play.google.com/store/apps/details?id=com.surface.surface" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
@@ -110,7 +117,7 @@
 	<td width="50%">
           <h3 align="center">Movie4U</h3>
           <p align="center">
-           <a href="https://movies-ettounani.vercel.app/" target="_blank" ref="noreferrer"><img src="2.jpg" alt="project example"/></a>
+           <a href="https://movies-ettounani.vercel.app/" target="_blank" ref="noreferrer"><img src="demo/2.jpg" alt="project example"/></a>
 		   <a href="https://github.com/ET-TOUNANI/movies" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://movies-ettounani.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
@@ -123,7 +130,7 @@
         <td width="50%">
           <h3 align="center">BTS</h3>
           <p align="center">
-             <a href="https://github.com/ET-TOUNANI/bts" target="_blank" ref="noreferrer"> <img src="6.jpg" alt="project example"/> </a>
+             <a href="https://github.com/ET-TOUNANI/bts" target="_blank" ref="noreferrer"> <img src="demo/6.jpg" alt="project example"/> </a>
 		<a href="https://github.com/ET-TOUNANI/bts" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://github.com/ET-TOUNANI/bts" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
@@ -134,7 +141,7 @@
 	<td width="50%">
           <h3 align="center">ENSET</h3>
           <p align="center">
-            <a href="https://github.com/ET-TOUNANI/scolaire" target="_blank" ref="noreferrer"> <img src="4.jpg" alt="project example"/> </a>
+            <a href="https://github.com/ET-TOUNANI/scolaire" target="_blank" ref="noreferrer"> <img src="demo/4.jpg" alt="project example"/> </a>
 		<a href="https://github.com/ET-TOUNANI/scolaire" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://github.com/ET-TOUNANI/scolaire" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
