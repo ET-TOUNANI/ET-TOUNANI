@@ -45,29 +45,43 @@
 ## Projects
 
 <table>
-	 <tr>
- <td width="100%">
-          <h3 align="center">Discover Morocco</h3>
-          <p align="center">
-             <a href="https://play.google.com/store/apps/details?id=com.tourism.discover_morocco&pli=1" target="_blank" ref="noreferrer"> <img src="demo/DISCOVER MOROCCO.png" alt="project example"/> </a>
-		<a href="https://github.com/ET-TOUNANI/discover-morocco" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="https://play.google.com/store/apps/details?id=com.tourism.discover_morocco&pli=1" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+  <tr>
+    <td width="100%">
+      <h3 align="center">Discover Morocco</h3>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.tourism.discover_morocco&pli=1" target="_blank" ref="noreferrer">
+          <img src="demo/DISCOVER MOROCCO.png" alt="project example"/>
+        </a>
+        <a href="https://github.com/ET-TOUNANI/discover-morocco" target="_blank" ref="noreferrer">
+          <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github">
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.tourism.discover_morocco&pli=1" target="_blank" ref="noreferrer">
+          <img src="https://img.shields.io/badge/Live-grey?style=for-the-badge">
+        </a>
+      </p>
     </td>
- </tr>
+  </tr>
 </table>
 
 <table>
-	<tr>
-
-<td width="100%">
-          <h3 align="center">Timetable generator</h3>
-          <p align="center">
-             <a href="https://www.youtube.com/watch?v=Yxd4z5WS6Fw" target="_blank" ref="noreferrer"> <img src="demo/10.png" alt="project example"/> </a>
-		<a href="https://github.com/ET-TOUNANI/PI_GESTION_EMPLOIS_TEMPS" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="https://www.youtube.com/watch?v=Yxd4z5WS6Fw" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+  <tr>
+    <td width="100%">
+      <h3 align="center">Timetable generator</h3>
+      <p align="center">
+        <a href="https://www.youtube.com/watch?v=Yxd4z5WS6Fw" target="_blank" ref="noreferrer">
+          <img src="demo/10.png" alt="project example"/>
+        </a>
+        <a href="https://github.com/ET-TOUNANI/PI_GESTION_EMPLOIS_TEMPS" target="_blank" ref="noreferrer">
+          <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github">
+        </a>
+        <a href="https://www.youtube.com/watch?v=Yxd4z5WS6Fw" target="_blank" ref="noreferrer">
+          <img src="https://img.shields.io/badge/Live-grey?style=for-the-badge">
+        </a>
+      </p>
     </td>
-    </tr>
+  </tr>
 </table>
+
  <table>
 
 	<tr>
