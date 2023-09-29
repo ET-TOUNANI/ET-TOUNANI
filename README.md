@@ -2,10 +2,8 @@
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/abderrahmane-et-tounani-21348020b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://abbo.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=react&logoColor=blue" alt="Portfolio Badge"/>
-  </a>
+  <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/H"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="H" /></a></p><br><br>
   <a href="https://twitter.com/TounaniEt">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
