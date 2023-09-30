@@ -172,7 +172,7 @@
 <br>
 <br>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/H"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="H" /></a></p><br><br>
+<center><p><a href="https://www.buymeacoffee.com/tounani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="H" /></a></p></center><br><br>
 
 
 <br>
