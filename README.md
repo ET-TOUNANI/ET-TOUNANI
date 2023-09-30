@@ -174,21 +174,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/H"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="H" /></a></p><br><br>
 
-<div align='center'>
- <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ET-TOUNANI&style=for-the-badge">
-</a>
-
-[ÿ hÿpe]: https://yhype.me
-[github profile views counter]: https://github.com/ET-TOUNANI/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=74843162)
-
-<!--
-### [My CodeWar Profile](https://www.codewars.com/users/0ussamaBernou)
-(https://git.io/streak-stats)
--->
-</div>
 
 <br>
 
