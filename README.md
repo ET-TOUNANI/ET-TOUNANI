@@ -42,10 +42,11 @@
 <br>
 
 ## Projects
-
+  
 <table>
+
   <tr>
-    <td width="100%">
+    <td width="50%">
       <h3 align="center">My FidCard</h3>
       <p align="center">
         <a href="https://play.google.com/store/apps/details?id=com.myfidcard.customer" target="_blank" ref="noreferrer">
@@ -59,12 +60,7 @@
         </a>
       </p>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="100%">
+    <td width="50%">
       <h3 align="center">Discover Morocco</h3>
       <p align="center">
         <a href="https://play.google.com/store/apps/details?id=com.tourism.discover_morocco&pli=1" target="_blank" ref="noreferrer">
@@ -79,42 +75,34 @@
       </p>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td width="100%">
-      <h3 align="center">Timetable generator</h3>
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=Yxd4z5WS6Fw" target="_blank" ref="noreferrer">
-          <img src="demo/10.png" alt="project example"/>
-        </a>
-        <a href="https://github.com/ET-TOUNANI/PI_GESTION_EMPLOIS_TEMPS" target="_blank" ref="noreferrer">
-          <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github">
-        </a>
-        <a href="https://www.youtube.com/watch?v=Yxd4z5WS6Fw" target="_blank" ref="noreferrer">
-          <img src="https://img.shields.io/badge/Live-grey?style=for-the-badge">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<table>
-	 <tr>
-		<td width="100%">
-          <h3 align="center">TOP Jemla</h3>
+        <td width="50%">
+          <h3 align="center">Timetable generator</h3>
           <p align="center">
-             <a href="https://play.google.com/store/apps/details?id=com.top.jemla" target="_blank" ref="noreferrer"> <img src="demo/77.png" alt="project example"/> </a>
-		<a href="https://play.google.com/store/apps/details?id=com.top.jemla" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="https://play.google.com/store/apps/details?id=com.top.jemla" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
-            <p align="center">
-		app available in <a href="https://play.google.com/store/apps/details?id=com.top.jemla" target="_blank" ref="noreferrer">Play Store</a>
-            </p>
+            <a href="https://www.youtube.com/watch?v=Yxd4z5WS6Fw" target="_blank" ref="noreferrer">
+              <img src="demo/10.png" alt="project example"/>
+            </a>
+            <a href="https://github.com/ET-TOUNANI/PI_GESTION_EMPLOIS_TEMPS" target="_blank" ref="noreferrer">
+              <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github">
+            </a>
+            <a href="https://www.youtube.com/watch?v=Yxd4z5WS6Fw" target="_blank" ref="noreferrer">
+              <img src="https://img.shields.io/badge/Live-grey?style=for-the-badge">
+            </a>
           </p>
-       	 </td>
-	</tr>
-</table>
-<table>
+        </td>
+        <td width="50%">
+              <h3 align="center">TOP Jemla</h3>
+              <p align="center">
+                <a href="https://play.google.com/store/apps/details?id=com.top.jemla" target="_blank" ref="noreferrer"> <img src="demo/77.png" alt="project example"/> </a>
+        <a href="https://play.google.com/store/apps/details?id=com.top.jemla" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.top.jemla" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+                <p align="center">
+        app available in <a href="https://play.google.com/store/apps/details?id=com.top.jemla" target="_blank" ref="noreferrer">Play Store</a>
+                </p>
+              </p>
+            </td>
+      </tr>
+    <tr>
       <td width="50%">
           <h3 align="center">Azaf</h3>
           <p align="center">
