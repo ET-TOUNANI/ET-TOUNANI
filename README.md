@@ -1,3 +1,4 @@
+### <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Abderrahmane ET-TOUNANI </h1>
 
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/abderrahmane-et-tounani-21348020b/">
@@ -8,16 +9,19 @@
   <a href="https://twitter.com/TounaniEt">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://www.youtube.com/channel/UCJIpJFOqT5mqcLJzKjeADsg">
-	 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Twitter Badge"/>    
-   
-  </a>
-	
+    <a href="https://www.youtube.com/channel/UCJIpJFOqT5mqcLJzKjeADsg"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Twitter Badge"/>  </a>
 </div>
 <br>
 	
 
-<br>
+### <h2>:man_technologist: About Me :</h2>
+ <a  href="https://app.daily.dev/tounaniabderrahmane">
+        <img src="https://api.daily.dev/devcards/v2/nHgL2r2BnjKezpdi2ssIK.png?type=default&r=eiz" width="200" alt="ETT-TOUNANI Abderrahmane's Dev Card"/>
+    </a>
+- 📚 Currently employed as a Software Engineer at NimbleWays, I'm continually honing my skills and contributing to innovative projects. With a strong foundation in Computer Science and hands-on experience in Java, Spring boot, Next js, React Js and Flutter, I thrive in the dynamic world of software development.
+- ⏰ In my free time, I like to experiment with new technologies and explore different software development methodologies.
+- 📩 If you're interested in collaborating on a project or discussing the latest tech trends, feel free to reach out to me. I'm always up for a good conversation!
+- :iphone:  connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-et-tounani/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](aettounani@gmail.com)
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <div align="center">
@@ -41,11 +45,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="PHP" width="40" height="40"/>&nbsp;
     </p>
-    <a width="50%" href="https://app.daily.dev/tounaniabderrahmane">
-        <img src="https://api.daily.dev/devcards/v2/nHgL2r2BnjKezpdi2ssIK.png?type=default&r=eiz" width="356" alt="ETT-TOUNANI Abderrahmane's Dev Card"/>
-    </a>
 </div>
-
 
 <br>
 
