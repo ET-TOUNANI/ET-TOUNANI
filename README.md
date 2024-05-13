@@ -21,7 +21,7 @@
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <div align="center">
-    <p align="left">
+    <p align="left" width="50%">
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -41,7 +41,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="PHP" width="40" height="40"/>&nbsp;
     </p>
-    <a href="https://app.daily.dev/tounaniabderrahmane">
+    <a width="50%" href="https://app.daily.dev/tounaniabderrahmane">
         <img src="https://api.daily.dev/devcards/v2/nHgL2r2BnjKezpdi2ssIK.png?type=default&r=eiz" width="356" alt="ETT-TOUNANI Abderrahmane's Dev Card"/>
     </a>
 </div>
