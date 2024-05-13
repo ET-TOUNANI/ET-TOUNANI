@@ -12,9 +12,9 @@
 	 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Twitter Badge"/>    
    
   </a>
-	
+	<a href="https://app.daily.dev/tounaniabderrahmane"><img src="https://api.daily.dev/devcards/v2/nHgL2r2BnjKezpdi2ssIK.png?type=default&r=ze1" width="356" alt="ETT-TOUNANI Abderrahmane's Dev Card"/></a>
+
 </div>
-<a href="https://app.daily.dev/tounaniabderrahmane"><img src="https://api.daily.dev/devcards/v2/nHgL2r2BnjKezpdi2ssIK.png?type=default&r=ze1" width="356" alt="ETT-TOUNANI Abderrahmane's Dev Card"/></a>
 <br>
 	
 
