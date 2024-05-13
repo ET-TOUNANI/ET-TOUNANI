@@ -14,7 +14,7 @@
   </a>
 	
 </div>
-
+<a href="https://app.daily.dev/tounaniabderrahmane"><img src="https://api.daily.dev/devcards/v2/nHgL2r2BnjKezpdi2ssIK.png?type=default&r=ze1" width="356" alt="ETT-TOUNANI Abderrahmane's Dev Card"/></a>
 <br>
 	
 
